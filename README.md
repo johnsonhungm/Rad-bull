@@ -5,7 +5,7 @@
 
 ## What It Does
 1. **Date Selection**: Prompts you to enter a date (or press Enter for today)
-2. **Search**: Sets filters (Category=一般攝影, Location=台大總院, Exam=32001CXM) and performs search
+2. **Search**: Sets filters (Category=一般攝影, Exam=32001CXM) and performs search
 3. **Open**: Selects the first result in the grid and opens it
 4. **Extract**: Waits for PACS viewer, sends Ctrl+I to anonymize, then takes a screenshot of the viewer window
 5. **Analyze**: Sends image to MedGemma 1.5 (via HF Inference Endpoint) for structured radiology report generation
